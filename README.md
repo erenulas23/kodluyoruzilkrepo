@@ -1,4 +1,4 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![resim](http://url/to/markdown.png)
+![alt resim](http://url/to/markdown.png)
